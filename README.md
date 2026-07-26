@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/Abbsalehi/Readme/blob/main/images/new_banner.png" style="width:100%; margin-bottom:20px;" alt="Banner" />
+<img align="center" src="banner.png" style="width:100%; margin-bottom:20px;" alt="Banner" />
 
 <div align="left">
 
