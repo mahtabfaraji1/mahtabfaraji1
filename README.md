@@ -27,11 +27,10 @@ As someone who is passionate about continuous learning and collaboration, I am a
 
 ### 🚀 Research Interests
 
-* **Remote Sensing** and **Geospatial Analysis**
-* **3D Computer Vision** and **Photogrammetry**
-* **3D urban Modeling** and **AI-driven Image Processing**
-* **Point Cloud** and **LiDAR Mapping**
-* Applications in **Robotics** and **Autonomous Driving**
+* **Medical Image Segmentation**
+* **Object Detection and Localization in Radiographs**
+* **Multimodal Medical Imaging**
+* **Computer-Aided Diagnosis (CAD) and AI Metrics** 
 
 <br clear="right" />
 
@@ -45,7 +44,7 @@ As someone who is passionate about continuous learning and collaboration, I am a
 ### 🌱 Current Learning
 
 I'm expanding my expertise in:
-- Advanced **3D Computer Vision** techniques
+- Advanced **Computer Vision** techniques
 - **Deep Learning** applications for large geospatial datasets
 - **Multi-modal Data Fusion** and integration
 - Robotics and Autonomous Driving
