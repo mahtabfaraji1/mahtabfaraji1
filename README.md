@@ -4,7 +4,7 @@
 
 [![GitHub Badge](https://img.shields.io/github/followers/mahtabfaraji1?style=social)](https://github.com/mahtabfaraji1?tab=followers)
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=qU8BXEQAAAAJ&hl=en)
-[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](linkedin.com/in/mahtab-faraji)
+[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/mahtab-faraji/)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mahtabfaraji1.mahtabfaraji1) 
 ----
 
