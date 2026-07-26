@@ -15,7 +15,13 @@
 
 ### Welcome to my GitHub profile!
 
-As a **Geospatial AI and Computer Vision researcher**, my research dives into the intersection of **Geospatial Data Processing**, **Remote Sensing**, **LiDAR Mapping**, **Computer Vision**, **Machine Learning/Deep Learning**, and **Photogrammetry**.
+I am a Graduate Researcher at University of Illinois Chicago with a passion for **computer vision**, **machine learning**, and **data science**.
+
+I have hands-on experience with **deep learning and computer vision research**, coupled with strong foundations in programming and analytical tools.
+
+In particular, I am interested in applying **AI to healthcare and technology challenges**.
+
+As someone who is passionate about continuous learning and collaboration, I am actively seeking opportunities to contribute and grow within the field of data science and machine learning
 
 <img align="right" src="interests.png" width="300" alt="Research Illustration" style="margin-left: 30px;" />
 
