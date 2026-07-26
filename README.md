@@ -2,7 +2,7 @@
 
 <div align="left">
 
-[![GitHub Badge](https://img.shields.io/github/followers/Abbsalehi?style=social)](https://github.com/Abbsalehi?tab=followers)
+[![GitHub Badge](https://img.shields.io/github/followers/mahtabfaraji1?style=social)](https://github.com/mahtabfaraji1?tab=followers)
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=xg85-BEAAAAJ&hl=en)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/abbsalehi/)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Abbsalehi.Abbsalehi) 
@@ -17,7 +17,7 @@
 
 As a **Geospatial AI and Computer Vision researcher**, my research dives into the intersection of **Geospatial Data Processing**, **Remote Sensing**, **LiDAR Mapping**, **Computer Vision**, **Machine Learning/Deep Learning**, and **Photogrammetry**.
 
-<img align="right" src="images/interests.png" width="300" alt="Research Illustration" style="margin-left: 30px;" />
+<img align="right" src="interests.png" width="300" alt="Research Illustration" style="margin-left: 30px;" />
 
 ### 🚀 Research Interests
 
