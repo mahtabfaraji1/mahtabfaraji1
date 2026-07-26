@@ -23,7 +23,7 @@ In particular, I am interested in applying **AI to healthcare and technology cha
 
 As someone who is passionate about continuous learning and collaboration, I am actively seeking opportunities to contribute and grow within the field of data science and machine learning
 
-<img align="right" src="interests.png" width="300" alt="Research Illustration" style="margin-left: 30px;" />
+<img align="right" src="interests.png" width="400" alt="Research Illustration" style="margin-left: 30px;" />
 
 ### 🚀 Research Interests
 
