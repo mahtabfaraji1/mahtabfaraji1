@@ -38,19 +38,15 @@ As someone who is passionate about continuous learning and collaboration, I am a
 
 - **Programming Languages**: Python, MATLAB, C++
 - **Frameworks**: PyTorch, TensorFlow, OpenCV
-- **Technologies**: LiDAR, Point Cloud Processing, Photogrammetry, Remote Sensing, GIS
 - **Other Tools**: Git, Docker, LaTeX
 
 ### 🌱 Current Learning
 
 I'm expanding my expertise in:
 - Advanced **Computer Vision** techniques
-- **Deep Learning** applications for large geospatial datasets
+- **Deep Learning** applications for medical image datasets
 - **Multi-modal Data Fusion** and integration
-- Robotics and Autonomous Driving
 
 ### 🤝 Looking to collaborate on
 
-- **3D Modeling** and **Image Processing** projects
-- **Geospatial Data Processing**, **Photogrammetry**, and **Remote Sensing** applications
-- Open-source contributions in **AI** and **Autonomous Driving**
+- **Medical Image Analysis**
