@@ -3,9 +3,9 @@
 <div align="left">
 
 [![GitHub Badge](https://img.shields.io/github/followers/mahtabfaraji1?style=social)](https://github.com/mahtabfaraji1?tab=followers)
-[![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=xg85-BEAAAAJ&hl=en)
-[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/abbsalehi/)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Abbsalehi.Abbsalehi) 
+[![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=qU8BXEQAAAAJ&hl=en)
+[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](linkedin.com/in/mahtab-faraji)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mahtabfaraji1.mahtabfaraji1) 
 ----
 
 <!-- <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Abbsalehi&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
