@@ -28,8 +28,7 @@ As someone who is passionate about continuous learning and collaboration, I am a
 ### 🚀 Research Interests
 
 * **Medical Image Segmentation**
-* **Object Detection and Localization in Radiographs**
-* **Multimodal Medical Imaging**
+* **Data-driven Deep Learning**
 * **Computer-Aided Diagnosis (CAD) and AI Metrics** 
 
 <br clear="right" />
